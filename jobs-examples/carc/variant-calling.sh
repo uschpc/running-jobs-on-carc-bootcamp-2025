@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH --partition compute
+#SBATCH --partition main
 #SBATCH --nodes 1
 #SBATCH --ntasks 10
 #SBATCH --time 01:00:00
 #SBATCH --mem 4g
 #SBATCH --account=ttrojan_001
-#SBATCH --chdir /home1/${USER}/running-jobs-on-CARC-laguna
+#SBATCH --chdir /home1/${USER}/running-jobs-on-carc-bootcamp-2025
 module purge
 module load usc
 module load sratoolkit

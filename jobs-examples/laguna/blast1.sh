@@ -4,7 +4,7 @@
 #SBATCH --partition compute
 #SBATCH --time=00:05:00
 #SBATCH --account=ttrojan_001
-#SBATCH --chdir /home1/${USER}/running-jobs-on-CARC-laguna
+#SBATCH --chdir /home1/${USER}/running-jobs-on-carc-bootcamp-2025
 module purge
 module load usc
 module load blast-plus

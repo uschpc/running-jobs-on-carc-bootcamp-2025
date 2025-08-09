@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH --partition compute
+#SBATCH --partition main
 #SBATCH --nodes 1
 #SBATCH --ntasks 20
 #SBATCH --time 01:00:00
 #SBATCH --mem 4g
 #SBATCH --account=ttrojan_001
-#SBATCH --chdir /home1/${USER}/running-jobs-on-CARC-laguna
+#SBATCH --chdir /home1/${USER}/running-jobs-on-carc-bootcamp-2025
 module purge
 module load usc
 module load bowtie2
@@ -17,7 +17,7 @@ cp data/R*.gz results/read-mapping
 gunzip results/read-mapping/R1.fastq.gz
 gunzip results/read-mapping/R2.fastq.gz
 #link the chromosome sequence locally for easy access
-ln -s /project/biodb/genomes/Homo_sapiens/UCSC/hg19/Sequence/Chromosomes/chr21.fa results/read-mapping/
+ln -s /project2/biodb/genomes/Homo_sapiens/UCSC/hg19/Sequence/Chromosomes/chr21.fa results/read-mapping/
 #prepare the bowtie2 index
 bowtie2-build --threads $SLURM_NTASKS results/read-mapping/chr21.fa results/read-mapping/chr21index
 #convert to sam format
