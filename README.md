@@ -1,6 +1,6 @@
 [![CARC](./images/carc-logo.png 'CARC')](https://carc.usc.edu)
 [![SoCal Research Computing Alliance](./images/socal-rca-logo.png 'SoCal RCA')](https://uschpc.github.io/regional-computing-website)
-# CARC Bootcamp 2025 - Running jobs on CARC or Laguna - Workshop
+# CARC Bootcamp 2025 - Running jobs on CARC or Laguna Cluster
 
 This repository contains preconfigured slurm job script examples, to run on USC CARC Discovery Cluster and USC CARC Laguna Cluster. 
 
