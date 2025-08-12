@@ -56,7 +56,7 @@ To start a Jupyter notebook server, Click on Interactive Apps and then select Ju
 * Set the number of hours to 4
 
 ### Laguna:
-* For Account, specify the account you normally use, like `hpcsuppt_613`
+* For Account, specify the account you normally use, like `jkhong_1307`
 * For Partition, choose `compute`
 * Set the number of CPUs to 2
 * Set Memory to 2GB
