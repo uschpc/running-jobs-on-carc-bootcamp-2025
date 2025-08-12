@@ -22,14 +22,14 @@ This repository contains preconfigured slurm job script examples, to run on USC 
 * [Gettting started with Discovery](https://www.carc.usc.edu/user-guides/hpc-systems/discovery/getting-started-discovery.html)
 
 * [CARC Ondemand](https://ondemand.carc.usc.edu/)
-* 
+
 * [CARC Ondemand Guide](https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview)
 
 ##### For Laguna Users:
 * [Gettting started with CARC Laguna](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html)
 
 * [Laguna Ondemand](https://laguna-ood.carc.usc.edu/)
-* 
+
 * [Laguna Ondemand Guide](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand/ondemand-overview.html)
 
 
