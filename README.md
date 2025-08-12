@@ -21,15 +21,19 @@ This repository contains preconfigured slurm job script examples, to run on USC 
 ##### For CARC Users:
 * [Gettting started with Discovery](https://www.carc.usc.edu/user-guides/hpc-systems/discovery/getting-started-discovery.html)
 
-* [CARC Ondemand](https://www.carc.usc.edu/user-guides/carc-ondemand.html)
+* [CARC Ondemand](https://ondemand.carc.usc.edu/)
+* 
+* [CARC Ondemand Guide](https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview)
 
 ##### For Laguna Users:
 * [Gettting started with CARC Laguna](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html)
 
-* [Laguna Ondemand](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
+* [Laguna Ondemand](https://laguna-ood.carc.usc.edu/)
+* 
+* [Laguna Ondemand Guide](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand/ondemand-overview.html)
 
 
-#### Hardware Requirements: Desktop or laptop computer capable of running the latest version of Chrome or Firefox. 
+#### Hardware Requirements: Desktop or laptop computer capable of running any modern web browser - Chrome, Firefox or Safari. 
 
 #### Language: English
 
